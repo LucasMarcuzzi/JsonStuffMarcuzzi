@@ -1,0 +1,9 @@
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Ejercicios\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Ejercicios\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Ejercicios\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Ejercicios\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Ejercicios\Ejercicio2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Ejercicios\Ejercicio2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Ejercicios\Ejercicio2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Ejercicios\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Ejercicios\Ejercicio2\obj\Debug\Ejercicio2.pdb
